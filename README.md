@@ -6,6 +6,6 @@ This folder contains all the documents and source code related to Lab-8.
 
 The main aim of this Tutorial is to develop a Ionic Application with Firebase
 
-This  is a FoodApp application with Login & Signup Page.
+This  is a Mashup application with Login & Signup Page.
 
 The below is the Wiki Link for Lab Assignment 8
