@@ -1,0 +1,13 @@
+.background.scroll-content {
+  background: url('../templates/geo.jpg') no-repeat;
+  background-size: cover;
+}
+.home.scroll-content {
+  background: url('../templates/mash.jpg') no-repeat;
+  background-size: cover;
+}
+.padding.scroll-content {
+  background: url('../templates/ht.jpg') no-repeat;
+  background-size: cover;
+}
+

@@ -1,0 +1,15 @@
+<ion-view view-title="Login" name="login-view"style="background: url((../templates/ht.jpg); background-size: cover ">
+  <ion-content class="padding">
+    <div class="list list-inset">
+      <label class="item item-input">
+        <input type="text" placeholder="Username" ng-model="data.username">
+      </label>
+      <label class="item item-input">
+        <input type="password" placeholder="Password" ng-model="data.password">
+      </label>
+    </div>
+    <button class="button button-block button-calm" ng-click="login()">SignIn</button>
+    <a class="button button-block button-calm" href="#/register">Register Here!!</a>
+    <a class="button button-block button-calm" href="#/location">To get Geo-Location,Click Here!</a>
+  </ion-content>
+</ion-view>
